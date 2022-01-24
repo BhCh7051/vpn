@@ -41,5 +41,8 @@
   },
   "website": "",
   "repository": "",
-  "stack": "container"
+  "stack": "container",
+  "engines": {
+    "node": "14.x"
+  }
  }
